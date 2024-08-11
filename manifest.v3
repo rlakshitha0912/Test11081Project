@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="TestAdapaterPackage">1.0</value>
+    <value name="Adapters_Sephali">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">11-08-2024 06:26:47 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-08-11T06:27:29.025304682Z</value>
+  <value name="lastUpdated">2024-08-11T06:37:22.746440842Z</value>
   <value name="wmProjectId">fl26f78845ed6af14d91bb56</value>
   <value name="creator">webMethodsIntegration Administrator</value>
 </Values>
